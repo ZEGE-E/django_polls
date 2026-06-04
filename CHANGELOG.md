@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/ZEGE-E/django_polls/compare/v1.0.1...v1.0.2) (2026-06-04)
+
+
+### Bug Fixes
+
+* Readme file changed fix.2 ([b6ec10b](https://github.com/ZEGE-E/django_polls/commit/b6ec10b2f99c5375918f6e68731db0edc85be32c))
+* Readme file changed fix.3 ([0c59514](https://github.com/ZEGE-E/django_polls/commit/0c5951432b60de3ed0156cd9630f56d1030b6dbf))
+
 ## [1.0.1](https://github.com/ZEGE-E/django_polls/compare/v1.0.0...v1.0.1) (2026-06-04)
 
 
