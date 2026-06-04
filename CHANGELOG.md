@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/ZEGE-E/django_polls/compare/v1.0.0...v1.0.1) (2026-06-04)
+
+
+### Bug Fixes
+
+* Readme file changed fix. ([fa4fd61](https://github.com/ZEGE-E/django_polls/commit/fa4fd61998f7f8383d324ba2548fd150ae39d02c))
+* upgrade Node.js to 22 for semantic-release ([402f826](https://github.com/ZEGE-E/django_polls/commit/402f8264e02541701c7dc6ab92fbf1b261de6551))
+
 # 1.0.0 (2026-06-04)
 
 
