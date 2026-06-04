@@ -1,4 +1,4 @@
-$yaml = 'name: CI Semantic Versioning
+name: CI Semantic Versioning
 
 on:
   push:
@@ -37,6 +37,4 @@ jobs:
       - name: Run semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: npx semantic-release'
-
-[System.IO.File]::WriteAllText("$PWD\.github\workflows\ci_version.yaml", $yaml)
+        run: npx semantic-release
