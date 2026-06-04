@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ZEGE-E/django_polls/compare/v1.0.3...v1.1.0) (2026-06-04)
+
+
+### Features
+
+* Readme file changed feature. ([aeb9607](https://github.com/ZEGE-E/django_polls/commit/aeb96075a15a383c6b656ea6c60c20db9039e4cb))
+
 ## [1.0.3](https://github.com/ZEGE-E/django_polls/compare/v1.0.2...v1.0.3) (2026-06-04)
 
 
