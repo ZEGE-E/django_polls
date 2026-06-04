@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/ZEGE-E/django_polls/compare/v1.1.0...v2.0.0) (2026-06-04)
+
+
+* Merge pull request [#5](https://github.com/ZEGE-E/django_polls/issues/5) from ZEGE-E/break/readme-file-changed ([2caf75d](https://github.com/ZEGE-E/django_polls/commit/2caf75db0cf805b5da31fe0ee12edcbf62bdaba0))
+
+
+### BREAKING CHANGES
+
+* Readme file changed major.
+
 # [1.1.0](https://github.com/ZEGE-E/django_polls/compare/v1.0.3...v1.1.0) (2026-06-04)
 
 
